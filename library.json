@@ -2,7 +2,7 @@
   "name": "OLED_I2C_arduino",
   "title" : "OLED 128x64 I2C AVR",
   "keywords": "lcd, i2c , arduino",
-  "description": "",
+  "description": "OLED 128x64 I2C",
   "category":"Display",
   "license": "MIT",
   "git": "https://github.com/inexglobal/oled-128x64/",
