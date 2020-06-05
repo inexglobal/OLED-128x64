@@ -5,10 +5,10 @@
   "description": "",
   "category":"Display",
   "license": "MIT",
-  "git": "https://github.com/inexglobal/oled-i2c-kbide-arduino/",
+  "git": "https://github.com/inexglobal/oled-128x64/",
   "author": "Adafruit | blocks by INEX",
   "email": "teerawut@inex.co.th",
-  "url": "https://github.com/inexglobal/oled-i2c-kbide-arduino.git",
+  "url": "https://github.com/inexglobal/oled-128x64.git",
   "version": "1.0.0",
   "platform": [ "arduino-avr" ],
   "image" : "/static/display.png"
