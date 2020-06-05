@@ -1,0 +1,15 @@
+{
+  "name": "OLED_I2C_arduino",
+  "title" : "OLED 128x64 I2C AVR",
+  "keywords": "lcd, i2c , arduino",
+  "description": "",
+  "category":"Display",
+  "license": "MIT",
+  "git": "https://github.com/inexglobal/oled-i2c-kbide-arduino/",
+  "author": "Adafruit | blocks by INEX",
+  "email": "teerawut@inex.co.th",
+  "url": "https://github.com/inexglobal/oled-i2c-kbide-arduino.git",
+  "version": "1.0.0",
+  "platform": [ "arduino-avr" ],
+  "image" : "/static/display.png"
+}
