@@ -5,7 +5,7 @@ Blockly.JavaScript['oled_i2c_init'] = function(block) {
 					  #include <Wire.h>
 					  #include <Adafruit_GFX.h>
                       #include <Adafruit_SSD1306.h> #END
-#VARIABLE Adafruit_SSD1306 ${variable_instance}(128,64,&Wire,-1); #END
+#VARIABLE Adafruit_SSD1306 ${variable_instance}(-1); #END
 ${variable_instance}.begin(SSD1306_SWITCHCAPVCC, ${text_addr});
 ${variable_instance}.setTextColor(WHITE,BLACK);\n`
   return code;
